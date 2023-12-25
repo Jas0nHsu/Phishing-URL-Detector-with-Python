@@ -32,4 +32,5 @@ Step 6: Check the results.
 If the URL is not a phishing link, the scanner box will display a description in green, indicating that the link is safe.
 If the URL is identified as a phishing link, the scanner box will provide a warning or alert.
 
-![image](https://github.com/Jas0nHsu/Security-Project/assets/154772549/9587e5a0-7c68-47fa-a613-01ae1f37c54c)
+![image](https://github.com/Jas0nHsu/Phishing-URL-Detector-with-Python/assets/154772549/955c3936-a41d-4aaa-8348-64377b42b86d)
+
