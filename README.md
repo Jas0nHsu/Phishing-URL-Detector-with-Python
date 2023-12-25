@@ -1,5 +1,5 @@
 # Phishing-URL-Detector-with-Python
-# Install in Linux 
+# Linux Available
 
 Manual For Phishing Guard Detector
 
