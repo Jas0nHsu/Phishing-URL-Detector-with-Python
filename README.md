@@ -1,7 +1,5 @@
 # Phishing-URL-Detector-with-Python
 
-# Phishing URL Detection with Python 
-
 Step-by-step Guide: Manual For Phishing Guard Detector
 
 Step 1: Create an account in VirusTotal and obtain your API key.
